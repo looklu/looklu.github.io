@@ -1,10 +1,10 @@
-@charset "gb2312";
+@charset "utf-8";
 .container {background: rgb(229, 229, 229,0.6);overflow: hidden; width: 1000px; margin: auto; border-left: #d2d2d2 1px solid; border-right: #d2d2d2 1px solid; }
 .blank20 { height: 20px; width: 100%; overflow: hidden; }
-/*¾íÖá*/
+/*å·è½´*/
 .jztop { background: url(../images/maintopbg.jpg) no-repeat; width: 1034px; margin: auto; height: 14px; }
 .jzend { background: url(../images/mainendbg.jpg) no-repeat; width: 1034px; margin: auto; height: 14px; }
-/*ÎÄÕÂ*/
+/*æ–‡ç« */
 .bloglist { width: 620px; overflow: hidden; margin-left: 20px; margin-bottom: 20px; }
 .newblogs { background: #fff; overflow: hidden; width: 68%; float: left; }
 h3.blogtitle { line-height: 30px; height: 30px; margin: 10px 0; }
@@ -29,7 +29,7 @@ h3.blogtitle { line-height: 30px; height: 30px; margin: 10px 0; }
 .more { font-size: 14px; }
 .r_box { width: 300px; margin: 20px 20px 0 0 }
 .tit { line-height: 44px; color: #fff; font-size: 18px; height: 44px; background: url(../images/rtitbg.png) no-repeat; padding-left: 40px; margin: 0 0 10px 0 }
-/* ¹Ø×¢ÎÒ */
+/* å…³æ³¨æˆ‘ */
 .gzwm ul { width: 100%; overflow: hidden; }
 .gzwm li { width: 60px; margin: 0 10px 0 5px; float: left; }
 .gzwm li a { color: #747F8C; width: 62px; text-align: center; padding-top: 60px; float: left; }
@@ -38,7 +38,7 @@ h3.blogtitle { line-height: 30px; height: 30px; margin: 10px 0; }
 .gzwm .tel { background: url(../images/gz03.png) no-repeat; }
 .gzwm .prize { background: url(../images/gz04.png) no-repeat; }
 .gzwm li a:hover { opacity: 0.6; }
-/*Í¼ÎÄÁĞ±í*/
+/*å›¾æ–‡åˆ—è¡¨*/
 .tuwen { width: 100%; clear: both; overflow: hidden; margin: 20px 0 }
 .tuwen li { overflow: hidden; clear: both; margin-bottom: 10px }
 .tuwen li i{width: 70px; float: left; margin-right: 15px; overflow:hidden}
@@ -54,12 +54,12 @@ h3.blogtitle { line-height: 30px; height: 30px; margin: 10px 0; }
 .tutime { background: url(../images/datepng.png) no-repeat left center; padding-left: 15px }
 .tuwen li:hover { background: #fff }
 .tuwen li:hover img{-webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1); -ms-transform: scale(1.1);}
-/*ÅÅĞĞ*/
+/*æ’è¡Œ*/
 .rank li { height: 26px; line-height: 26px; clear: both;  overflow: hidden; padding-left: 15px; background: url(../images/libg.jpg) no-repeat left center; }
 .rank { margin: 10px 0 }
 .rank li a { color: #333; }
 .rank li:first-child a { color: #f00; display: block; }
 .ph { overflow: hidden }
-/*Ê×Ò³ÓÒ²à¹ã¸æ 300*/
+/*é¦–é¡µå³ä¾§å¹¿å‘Š 300*/
 .ad { width: 300px; overflow: hidden; margin: 30px 0 }
 .ad img { width: 300px; }
